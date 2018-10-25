@@ -1,2 +1,2 @@
-# -test-test-smartgit
+# test-smartgit
 测试 SmartGit
