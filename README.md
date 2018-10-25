@@ -1,2 +1,2 @@
 # test-smartgit
-测试 SmartGit
+GitHub 测试 SmartGit
