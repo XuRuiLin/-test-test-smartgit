@@ -4,3 +4,5 @@ GitHub 测试 SmartGit
 GitHub 测试 GitHub Desktop 
 
 GitHub 测试 TortoiseGit
+
+GitHub 测试 Sourcetree
